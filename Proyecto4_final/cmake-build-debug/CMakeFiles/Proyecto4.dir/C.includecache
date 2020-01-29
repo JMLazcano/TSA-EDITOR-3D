@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+Z:/Desktop/Final, solo cash y save files/Proyecto4_final/Archivos.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+TDA Editor.h
+Z:/Desktop/Final, solo cash y save files/Proyecto4_final/TDA Editor.h
+
+Z:/Desktop/Final, solo cash y save files/Proyecto4_final/Map.h
+
+Z:/Desktop/Final, solo cash y save files/Proyecto4_final/TDA Editor.h
+
+Z:/Desktop/Final, solo cash y save files/Proyecto4_final/UseTDAEditor.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+malloc.h
+-
+Map.h
+Z:/Desktop/Final, solo cash y save files/Proyecto4_final/Map.h
+TDA Editor.h
+Z:/Desktop/Final, solo cash y save files/Proyecto4_final/TDA Editor.h
+Archivos.h
+Z:/Desktop/Final, solo cash y save files/Proyecto4_final/Archivos.h
+
